@@ -13,3 +13,7 @@ a {
   text-decoration: none;
   color: #00a9a5;
 }
+
+a:visited {
+  color: #00bdba;
+}
