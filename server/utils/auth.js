@@ -4,7 +4,7 @@ const secret = 'mysecretshshs'
 const expiration = '2h'
 
 module.exports = {
-  authMiddlewate: function ({ req }) {
+  authMiddleware: function ({ req }) {
     let token = req.body.token || req.query.token || req.headers.authorization
 
     // ["Bearer", "<tokenvalue>"]
