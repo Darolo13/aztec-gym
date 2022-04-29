@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+
+* {
+  font-family: 'Sora', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* 
+body color: #092327 "Deep Jungle Green"
+primary color: #0B5351 "Deep Jungle Green"
+secondary color: #00A9A5 "Light Sea Green"
+
+*/
